@@ -35,8 +35,8 @@ export default defineConfig({
       process.env.OUTPUT !== 'netlify' && VitePWA({
         registerType: 'autoUpdate',
         manifest: {
-          name: 'ChatGPT-API LuYuan',
-          short_name: 'ChatGPT 简易版',
+          name: 'ChatGPT LuYuan',
+          short_name: 'ChatGPT LuYuan',
           description: '关注我，使用升级版GPT',
           theme_color: '#212129',
           background_color: '#ffffff',
